@@ -12,8 +12,8 @@
         "url": "https://raw.githubusercontent.com/Penguinify/math-bookmarklet/main/dist/bundle.js"
     },
     {
-        "name": "Securely Kill",
-        "desc": "Kills Securely by feeding it cookies, dont ask i think im high rn",
+        "name": "Securely Kill (PATCHED AS OF CHROME v119)",
+        "desc": "If you see an error, it worked. (PATCHED AS OF CHROME v119)",
         "author": { "name": "Zek-c", "link": "https://github.com/zek-c" },
         "url": "https://raw.githubusercontent.com/zek-c/Securly-Kill-V111/main/kill.js"
     },
