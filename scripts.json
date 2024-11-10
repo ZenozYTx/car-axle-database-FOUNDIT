@@ -15,7 +15,7 @@
         "name": "(REMOVED))",
         "desc": "This script was removed due to... problems",
         "author": { "name": "Zek-c", "link": "https://github.com/zek-c" },
-        "url": "https://raw.githubusercontent.com/"
+        "url": "console.log(document.body.contentEditable = document.body.contentEditable == "true" ? "false" : "true");"
     },
     {
         "name": "kick ###",
