@@ -12,10 +12,10 @@
         "url": "https://raw.githubusercontent.com/Penguinify/math-bookmarklet/main/dist/bundle.js"
     },
     {
-        "name": "Securely Kill (PATCHED AS OF CHROME v119)",
-        "desc": "If you see an error, it worked. (PATCHED AS OF CHROME v119)",
+        "name": "(REMOVED))",
+        "desc": "This script was removed due to... problems",
         "author": { "name": "Zek-c", "link": "https://github.com/zek-c" },
-        "url": "https://raw.githubusercontent.com/zek-c/Securly-Kill-V111/main/kill.js"
+        "url": "https://raw.githubusercontent.com/"
     },
     {
         "name": "kick ###",
