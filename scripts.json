@@ -42,5 +42,10 @@
         "desc": "pretty bad autoclicker like idek why i made this",
         "author": { "name": "me", "link": "ewrewrwer"},
         "url": "https://raw.githubusercontent.com/Penguinify/autoclicker-bookmarklet/main/dist/bundle.js"
-    }
+    },
+    {
+        "name": "test",
+        "desc": "just testing to see if i can add scripts without breaking the bookmarklet",
+        "author": { "name": "penguinify", "link": "https://penguinify.github.io" },
+        "url": "https://raw.githubusercontent.com/Penguinify/gimkit-hacks/main/dist/bundle.js"
 ]
