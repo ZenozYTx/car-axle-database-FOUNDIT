@@ -48,4 +48,5 @@
         "desc": "just testing to see if i can add scripts without breaking the bookmarklet",
         "author": { "name": "penguinify", "link": "https://penguinify.github.io" },
         "url": "https://raw.githubusercontent.com/Penguinify/gimkit-hacks/main/dist/bundle.js"
+    }
 ]
