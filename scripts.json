@@ -44,9 +44,9 @@
         "url": "https://raw.githubusercontent.com/Penguinify/autoclicker-bookmarklet/main/dist/bundle.js"
     },
     {
-        "name": "test",
+        "name": "bookmarklet hacks",
         "desc": "just testing to see if i can add scripts without breaking the bookmarklet",
-        "author": { "name": "penguinify", "link": "https://penguinify.github.io" },
-        "url": "https://raw.githubusercontent.com/Penguinify/gimkit-hacks/main/dist/bundle.js"
+        "author": { "name": "swagging-post", "link": "https://github.com/swagging-post" },
+        "url": "https://raw.githubusercontent.com/ZenozYTx/Blooket-Cheat-GUI-aka-Swaggers-GUI/refs/heads/main/cheats/gui/gui.min.js"
     }
 ]
